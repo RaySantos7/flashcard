@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'qual a função de um compilador?',
-    'Traduz código-fonte para código executável'
+    'Traduz código-fonte para código executável.'
 )
 
 criaCartao(
