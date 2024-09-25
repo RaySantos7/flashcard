@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'programação',
+    'O que é uma variável?',
+    'é um espaço na memória que armazena dados'
 )
 
 criaCartao(
@@ -12,18 +12,32 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'qual a função de um compilador?',
+    'Traduz código-fonte para código executável'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz cachorro em Inglês?',
+    'cachorro em ingles é DOG'
 )
 
 criaCartao(
-    'Nova Pergunta',
-    'Isso é um teste?',
-    'SIM'
+    'PROGRMAÇÃO',
+    'o que é um bug?',
+    'é um erro no código'
 )
+
+criaCartao(
+    'PROGRAMAÇÃO',
+    'para que serve um if?',
+    'para tomar decisões no código, executando blocos condicionais'
+
+)
+
+criaCartao(
+    'programação',
+    'O que é uma função?',
+    'um bloco de código reutilizavel que executa uma tarefa específica'
+)
+
