@@ -41,3 +41,34 @@ criaCartao(
     'um bloco de código reutilizavel que executa uma tarefa específica'
 )
 
+criaCartao(
+    'historia',
+    'o que foi e revolução francesa?',
+    'revolta popular em 1789 que derrubou a monarquia na frança'
+)
+
+criaCartao(
+    'historia',
+    'quem foi napoleão bonaparte?',
+    'general francês que se tornou imperador e expandiu o território da frança'
+)
+
+criaCartao(
+    'historia',
+    'o que foi a guerra fria?',
+    'conflito ideológico entre EUA e URSS (1947-1991) sem confronto direto, mas com disputa por influência global.'
+)
+
+criaCartao(
+    'historia',
+    'quem descobriu a américa?',
+    'cristóvão colombo, em 1492, navegando pela espanha, chegou ao que é hoje o caribe.'
+)
+
+criaCartao(
+    'italia',
+    'qual a capital da italia?',
+    'é roma'
+
+)
+
